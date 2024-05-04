@@ -70,6 +70,16 @@ void addNode()
 }
 
 
+bool search(it rollNo, Node** previous, Node** current)
+{
+
+}
+
+
+
+
+
+
 int main()
 {
 
